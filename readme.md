@@ -1,6 +1,6 @@
 # Purpy's cookies
 
-![Purpy's cookie](./images/pc.png)
+![Purpy's cookie](./images/purpy_cookie_animated.gif)
 
 
 ## Table of contents
